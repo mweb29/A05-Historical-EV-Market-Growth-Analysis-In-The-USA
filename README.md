@@ -1,4 +1,4 @@
-Contributors: Adriano Nogueira, Junhan Chen, Michael Webber, MingHua Tsai, Shiv Nag, Yashna Meher
+**Contributors**: Adriano Nogueira, Junhan Chen, Michael Webber, MingHua Tsai, Shiv Nag, Yashna Meher
 
 **Problem Definition**: 
 Electric vehicles have increased in popularity since their introduction in the early 2010’s. The USA has been one of the top producing
